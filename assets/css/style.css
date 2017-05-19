@@ -32,6 +32,14 @@ h1{
 	font-size: 50px;
 }
 
+.first-panda{
+	background-image: url('../img/uno.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 270px;
+	margin: 0 -50px;
+}
+
 .texto{
 	border: none;
 	margin: 30px 400px;
@@ -44,6 +52,21 @@ h1{
 .about{
 	font-size: 20px;
 	font-weight: bolder;
+	margin: 20px;
+}
+
+.second-panda{
+	background-image: url('../img/dos.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 275px;
+	margin: 40px -50px -50px -50px;
+}
+
+.third-panda{
+	background-color: #ABE188;
+	margin: 80px -50px -50px -50px;
+	padding: 150px;
 }
 
 .pictures{
@@ -51,15 +74,24 @@ h1{
 	color: white;
 	font-size: 30px;
 }
-.cuatro-pandas{
- 	border: 10px solid white;
- 	margin: 0 10px;
- 	display: inline;
- 	text-align: center;
- }
+
+.panditas{
+	border: 10px solid white;
+	margin: 10px 50px;
+	display: line;
+}
+
+.four-panda{
+	background-image: url('../img/tres.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 275px;
+	margin: 80px -50px -50px -50px;
+}
 
 footer{
 	padding: 10px;
+
 	text-align: right;	
 	color: white;	
 	font-weight: 400;
